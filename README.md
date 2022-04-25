@@ -18,3 +18,6 @@ plt.itle('Minha Familia')
 plt.show()
 
 fig = px.line(x = eixo_x, y = eixo_y, tile = 'Minha Figura')
+
+<align="center">
+<img src="" width="500px">
