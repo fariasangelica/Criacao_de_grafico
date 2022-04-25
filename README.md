@@ -19,5 +19,7 @@ plt.show()
 
 fig = px.line(x = eixo_x, y = eixo_y, tile = 'Minha Figura')
 
+<div 
 <align="center">
-<img src="" width="500px">
+<img src="https://user-images.githubusercontent.com/98922466/165169727-c7bcfb1d-dd88-433c-8f1e-37300c5f986a.png" width="500px">
+</div>
