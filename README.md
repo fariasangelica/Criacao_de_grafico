@@ -17,6 +17,7 @@ plt.plot(eixo_x, eixo_y)
 plt.itle('Minha Familia')
 plt.show()
 
+
 fig = px.line(x = eixo_x, y = eixo_y, tile = 'Minha Figura')
 
 <div 
